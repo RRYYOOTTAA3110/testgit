@@ -10,6 +10,7 @@ public class QuizNumber {
 		return rundom.nextInt(3);
 
 		//この個所を変更
+		//さらに変更
 
 	}
 
