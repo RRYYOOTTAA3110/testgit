@@ -9,6 +9,8 @@ public class QuizNumber {
 		Random rundom = new Random();
 		return rundom.nextInt(3);
 
+		//この個所を変更
+
 	}
 
 }
